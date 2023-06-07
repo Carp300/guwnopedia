@@ -7,7 +7,7 @@
 </p>
 
 Obecnie glowna czesc projektu jest wersja guwnopedii w wersji pehap ktorej tu nie ma. Bo nie. <br><br><br><br>
-<img style="height: 200px;" src="https://vltr.xyz/img/czat/pics/fredifnaf.png" alt=""> <br><br>
+<a href="https://vltr.xyz/czat.php"><img style="height: 200px;" src="https://vltr.xyz/img/czat/pics/fredifnaf.png" alt=""></a> <br><br>
 <i>Zdjecie Ferdynanda </i>
 
 
